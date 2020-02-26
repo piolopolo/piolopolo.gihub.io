@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,9 +21,9 @@ title_separator          : "Task 3.6"
 subtitle                 : "Website kesayangan"
 name                     : "Iqbal L"
 description              : "Website impian"
-url                      : "https://afdalrdh.github.io/"
+url                      : "https://piolopolo.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/afdalrdh/afdalrdh.github.io"
+repository               : "https://github.com/piolopolo/piolopolo.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -56,7 +56,7 @@ staticman:
     email                : # "md5"
   generatedFields:
     date:
-      type               : "30/12/1999"
+      type               : "12/02/2001"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
@@ -106,20 +106,20 @@ analytics:
 # Site Author
 author:
   name             : "Iqbal Lutfian"
-  avatar           : "assets/images/logo.png"
+  avatar           : "iqbal.jpg"
   bio              : "Manusia yang bernapas dengan hidung."
   location         : "anak ciwa"
   email            : "iqballutfian30@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://afdalrdh.github.io/"
+      url: "https://piolopolo.github.io/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/afdalrdh"
+      url: 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/afdalrdh"
+      url: "https://github.com/piolopolo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/iqballutfian"
@@ -132,7 +132,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: "https://piolopolo.github.io/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url: "https://instagram.com/iqballutfian"
 
 
 # Reading Files
